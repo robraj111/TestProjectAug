@@ -7,6 +7,8 @@ public class TestProjectnew {
 		
 		Animal an=new Animal();
 		an.drink();
+		an.eat();
+		an.walk();
 
 	}
 
