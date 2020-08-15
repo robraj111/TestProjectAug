@@ -24,6 +24,7 @@ public class Testing {
 		a1.drink();
 		a1.eat();
 		a1.walk();
+		System.out.println("=======================================");
 		
 	}
 
